@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'vibrationanalysis2',
         'USER': 'root',
-        'PASSWORD' : '0966295794',
+        'PASSWORD' : '',
         'PORT' : '3306',
         'HOST' : 'localhost',
 
