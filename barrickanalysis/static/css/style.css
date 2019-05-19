@@ -1,0 +1,32 @@
+.input_width {
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+legend {
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+fieldset{
+    border: 1px solid #ccc;
+    padding :20px;
+}
+
+.pull-right {
+    text-align : right;
+}
+
+.mywrapper {
+    width:60%;
+    margin: 25px auto;
+}
+
+sub {
+    font-weight: bold;
+    font-size: 9px;
+    
+}
+
